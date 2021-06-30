@@ -10,4 +10,4 @@ This a CryptoCurrency App that fetches data from an Api and displays a list of C
 
 ![alt text](https://github.com/Lexstack/Bitso-Crypto-Tracker/blob/main/Image_2.png)
 
-![alt text](https://github.com/Lexstack/Bitso-Crypto-Tracker/blob/main/Image_3.png)
+
